@@ -1,2 +1,2 @@
 # clone-tabnews
-Um projeto para aprender a programar
+Um projeto para me profissionalizar em programação.
